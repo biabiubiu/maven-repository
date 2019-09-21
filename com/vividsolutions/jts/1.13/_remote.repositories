@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 06 00:17:51 CST 2019
+jts-1.13-sources.jar>central=
+jts-1.13.jar>central=
+jts-1.13-javadoc.jar>central=
+jts-1.13.pom>central=

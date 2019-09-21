@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 16 13:59:51 CST 2019
+guava-14.0.1.jar>central=
+guava-14.0.1.jar>alimaven=
+guava-14.0.1.pom>central=
+guava-14.0.1.pom>alimaven=

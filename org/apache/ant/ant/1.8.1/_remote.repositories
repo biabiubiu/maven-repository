@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 22:21:44 CST 2019
+ant-1.8.1.jar>alimaven=
+ant-1.8.1.pom>alimaven=
+ant-1.8.1.pom>nexus=
+ant-1.8.1.jar>central=
+ant-1.8.1.jar>nexus=
+ant-1.8.1.pom>central=

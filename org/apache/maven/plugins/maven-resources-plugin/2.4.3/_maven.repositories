@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 27 23:59:35 CST 2013
+maven-resources-plugin-2.4.3.jar>central=
+maven-resources-plugin-2.4.3.pom>nexus=
+maven-resources-plugin-2.4.3.jar>nexus=
+maven-resources-plugin-2.4.3.pom>central=

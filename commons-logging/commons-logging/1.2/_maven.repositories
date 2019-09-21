@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 07:30:40 CST 2015
+commons-logging-1.2.pom>nexus=
+commons-logging-1.2.jar>nexus=
+commons-logging-1.2.jar>central=
+commons-logging-1.2.pom>central=

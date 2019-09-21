@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 27 00:53:56 CST 2018
+servlet-api-2.4.jar>central=
+servlet-api-2.4.pom>central=
+servlet-api-2.4.jar>aliyun=
+servlet-api-2.4.pom>nexus=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 13 00:13:11 CST 2018
+spring-beans-4.1.2.RELEASE.jar>central=
+spring-beans-4.1.2.RELEASE.jar>nexus=
+spring-beans-4.1.2.RELEASE.pom>nexus=
+spring-beans-4.1.2.RELEASE.pom>central=

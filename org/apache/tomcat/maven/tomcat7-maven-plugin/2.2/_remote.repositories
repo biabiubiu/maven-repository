@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 13 16:02:14 CST 2016
+tomcat7-maven-plugin-2.2.jar>central=
+tomcat7-maven-plugin-2.2.pom>nexus=
+tomcat7-maven-plugin-2.2.pom>central=
+tomcat7-maven-plugin-2.2.jar>nexus=

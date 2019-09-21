@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 07 15:35:39 CST 2019
+hibernate-jpa-2.1-api-1.0.0.Final.pom>nexus=
+hibernate-jpa-2.1-api-1.0.0.Final.jar>central=
+hibernate-jpa-2.1-api-1.0.0.Final-sources.jar>central=
+hibernate-jpa-2.1-api-1.0.0.Final.jar>alimaven=
+hibernate-jpa-2.1-api-1.0.0.Final.pom>central=
+hibernate-jpa-2.1-api-1.0.0.Final-javadoc.jar>central=
+hibernate-jpa-2.1-api-1.0.0.Final-sources.jar>nexus=
+hibernate-jpa-2.1-api-1.0.0.Final.pom>alimaven=
+hibernate-jpa-2.1-api-1.0.0.Final.jar>nexus=

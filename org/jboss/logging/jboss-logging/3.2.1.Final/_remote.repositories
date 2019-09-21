@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 26 15:46:54 CST 2019
+jboss-logging-3.2.1.Final.pom>nexus=
+jboss-logging-3.2.1.Final.jar>nexus=
+jboss-logging-3.2.1.Final-sources.jar>central=
+jboss-logging-3.2.1.Final.jar>central=
+jboss-logging-3.2.1.Final.pom>central=

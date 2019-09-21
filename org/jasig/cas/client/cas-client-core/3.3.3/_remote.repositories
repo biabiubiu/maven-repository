@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 27 21:25:24 CST 2019
+cas-client-core-3.3.3-sources.jar>central=
+cas-client-core-3.3.3.jar>central=
+cas-client-core-3.3.3.pom>central=

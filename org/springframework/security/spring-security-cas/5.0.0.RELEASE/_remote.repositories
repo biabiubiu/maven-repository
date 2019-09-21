@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 27 21:25:23 CST 2019
+spring-security-cas-5.0.0.RELEASE.jar>central=
+spring-security-cas-5.0.0.RELEASE.pom>central=
+spring-security-cas-5.0.0.RELEASE-sources.jar>central=

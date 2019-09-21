@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Dec 28 17:56:24 CST 2013
+tomcat-maven-plugin-1.1.jar>nexus=
+tomcat-maven-plugin-1.1.jar>central=
+tomcat-maven-plugin-1.1.pom>central=
+tomcat-maven-plugin-1.1.pom>nexus=

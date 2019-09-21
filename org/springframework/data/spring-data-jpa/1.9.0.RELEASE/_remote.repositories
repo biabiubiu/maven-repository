@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 16 12:05:29 CST 2017
+spring-data-jpa-1.9.0.RELEASE.pom>nexus=
+spring-data-jpa-1.9.0.RELEASE.jar>nexus=
+spring-data-jpa-1.9.0.RELEASE.jar>central=
+spring-data-jpa-1.9.0.RELEASE.pom>central=
+spring-data-jpa-1.9.0.RELEASE-javadoc.jar>central=
+spring-data-jpa-1.9.0.RELEASE-sources.jar>central=

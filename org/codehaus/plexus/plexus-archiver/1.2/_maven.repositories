@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jun 10 10:42:05 CST 2014
+plexus-archiver-1.2.pom>nexus=
+plexus-archiver-1.2.jar>central=
+plexus-archiver-1.2.jar>nexus=
+plexus-archiver-1.2.pom>central=

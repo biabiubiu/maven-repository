@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 12 11:01:01 CST 2016
+lucene-core-4.10.2.pom>nexus=
+lucene-core-4.10.2.jar>nexus=
+lucene-core-4.10.2-sources.jar>nexus=

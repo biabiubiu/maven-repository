@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 13 13:26:51 CST 2019
+spring-websocket-5.0.2.RELEASE-sources.jar>central=
+spring-websocket-5.0.2.RELEASE.jar>central=
+spring-websocket-5.0.2.RELEASE.pom>central=

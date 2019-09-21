@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jul 15 12:23:29 CST 2017
+spring-test-4.2.0.RELEASE-javadoc.jar>central=
+spring-test-4.2.0.RELEASE.jar>central=
+spring-test-4.2.0.RELEASE-sources.jar>central=
+spring-test-4.2.0.RELEASE.pom>nexus=
+spring-test-4.2.0.RELEASE.jar>nexus=
+spring-test-4.2.0.RELEASE.pom>central=

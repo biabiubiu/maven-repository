@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 15 23:15:04 CST 2016
+amqp-client-3.5.7.pom>nexus=
+amqp-client-3.5.7.jar>nexus=
+amqp-client-3.5.7-sources.jar>nexus=

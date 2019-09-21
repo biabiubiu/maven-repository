@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 21 11:06:46 CST 2019
+elasticsearch-core-6.2.2-sources.jar>central=
+elasticsearch-core-6.2.2.jar>central=
+elasticsearch-core-6.2.2.pom>central=

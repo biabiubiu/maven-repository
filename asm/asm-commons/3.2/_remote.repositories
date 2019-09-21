@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 22:21:44 CST 2019
+asm-commons-3.2.jar>alimaven=
+asm-commons-3.2.jar>central=
+asm-commons-3.2.pom>alimaven=
+asm-commons-3.2.pom>nexus=
+asm-commons-3.2.pom>central=
+asm-commons-3.2.jar>nexus=

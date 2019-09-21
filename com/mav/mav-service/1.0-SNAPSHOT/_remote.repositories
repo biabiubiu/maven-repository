@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 19 00:10:21 CST 2019
+mav-service-1.0-SNAPSHOT.jar>=
+mav-service-1.0-SNAPSHOT.pom>=

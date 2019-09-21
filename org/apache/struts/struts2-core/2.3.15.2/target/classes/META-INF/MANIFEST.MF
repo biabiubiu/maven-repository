@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Apache Software Foundation
+Bundle-Version: 2.3.15.2
+Tool: Bnd-0.0.357
+Bundle-Name: Struts 2 Core
+Bnd-LastModified: 1402299844015
+Created-By: 1.6.0_13 (Sun Microsystems Inc.)
+Bundle-ManifestVersion: 2
+Bundle-Description: Apache Struts 2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-DocURL: http://www.apache.org
+Bundle-SymbolicName: org.apache.struts.2-core
+

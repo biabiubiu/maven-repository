@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 21 11:05:49 CST 2019
+zkclient-0.1.jar>central=
+zkclient-0.1.pom>central=
+zkclient-0.1-sources.jar>central=

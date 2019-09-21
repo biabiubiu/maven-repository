@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 05 23:33:09 CST 2019
+snakeyaml-1.15-sources.jar>central=
+snakeyaml-1.15.jar>central=
+snakeyaml-1.15.pom>central=
+snakeyaml-1.15-javadoc.jar>central=

@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 14 12:23:40 CST 2017
+struts2-core-2.3.24.1-sources.jar>nexus=
+struts2-core-2.3.24.1.jar>nexus-aliyun=
+struts2-core-2.3.24.1.pom>nexus=
+struts2-core-2.3.24.1.jar>nexus=
+struts2-core-2.3.24.1.jar>central=
+struts2-core-2.3.24.1.pom>central=
+struts2-core-2.3.24.1.pom>nexus-aliyun=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 13 10:49:57 CST 2016
+archetype-registry-2.4.pom>central=
+archetype-registry-2.4.pom>nexus=
+archetype-registry-2.4.jar>nexus=
+archetype-registry-2.4.jar>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 17 12:12:14 CST 2019
+http-client-1.0.0.RELEASE.jar>nexus=
+http-client-1.0.0.RELEASE.jar>central=
+http-client-1.0.0.RELEASE.pom>central=
+http-client-1.0.0.RELEASE.pom>nexus=

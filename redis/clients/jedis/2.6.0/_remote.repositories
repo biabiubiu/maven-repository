@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 07 22:02:18 CST 2016
+jedis-2.6.0.pom>nexus=
+jedis-2.6.0.jar>nexus=
+jedis-2.6.0-sources.jar>nexus=

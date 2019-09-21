@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 04 17:10:49 CST 2017
+cxf-rt-transports-http-jetty-3.0.1.jar>nexus=
+cxf-rt-transports-http-jetty-3.0.1.jar>central=
+cxf-rt-transports-http-jetty-3.0.1.pom>central=
+cxf-rt-transports-http-jetty-3.0.1.pom>nexus=

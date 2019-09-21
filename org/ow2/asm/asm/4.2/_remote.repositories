@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 05 18:01:15 CST 2019
+asm-4.2.pom>central=
+asm-4.2.jar>nexus=
+asm-4.2.pom>nexus=
+asm-4.2.jar>central=
